@@ -24,5 +24,6 @@ DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 
 DOMAIN-SUFFIX,69yun69.com
-
+DOMAIN-KEYWORD,python
+DOMAIN-SUFFIX,mysql.com
 
