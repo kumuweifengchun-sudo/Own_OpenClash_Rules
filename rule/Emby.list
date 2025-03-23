@@ -7,6 +7,7 @@
 # DOMAIN-SUFFIX: 45
 # PROCESS-NAME: 1
 # TOTAL: 52
+IP-CIDR,104.161.22.118/24,no-resolve
 DOMAIN,emby.69yun69.com
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
