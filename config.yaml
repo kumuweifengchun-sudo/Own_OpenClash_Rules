@@ -1,8 +1,8 @@
 # 注意规则在满足自己需求情况下，尽量做到精简，不要过度复杂，以免影响性能。
 # 机场订阅
 proxy-providers:
-  星畅云:
-    url: "https://xcyun.co/xe45lgf21?token=jdidjkd"
+  机场1:
+    url: "机场订阅"
     type: http
     interval: 86400
     health-check:
@@ -11,8 +11,8 @@ proxy-providers:
       interval: 300
     proxy: 直连
 
-  69云:
-    url: "https://checkhere.top/link/djdjn?clash=1"
+  机场2:
+    url: "机场订阅"
     type: http
     interval: 86400
     health-check:
@@ -110,12 +110,14 @@ dns:
     - "+.ntp.ntsc.ac.cn"
     - "+.cn.ntp.org.cn"
   default-nameserver:
+    - 119.29.29.29
     - 223.5.5.5
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
   # namesever尽量用运营商提供的DNS
   nameserver:
-    - 223.5.5.5
+    - 202.99.96.68
+    - 202.99.104.68
     - 119.29.29.29
  
 # 出站策略
