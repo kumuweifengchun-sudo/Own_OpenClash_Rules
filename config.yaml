@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   星畅云:
-    url: "https://xcyun.co/xe45lgf21?token=ac78a37a2a582b3d72ba62bcf3c35b15"
+    url: "https://xcyun.co/xe45lgf21?token=jdidjkd"
     type: http
     interval: 86400
     health-check:
@@ -12,7 +12,7 @@ proxy-providers:
     proxy: 直连
 
     69云:
-      url: "https://checkhere.top/link/OOisqLOpSsh9nKDM?clash=1"
+      url: "https://checkhere.top/link/djdjn?clash=1"
       type: http
       interval: 86400
       health-check:
