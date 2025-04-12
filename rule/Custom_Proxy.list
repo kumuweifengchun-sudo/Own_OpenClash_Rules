@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,z-lib.gd
 DOMAIN-SUFFIX,cdn-zlib.sk
+
+#漫画
+DOMAIN-SUFFIX,colamanga.com
