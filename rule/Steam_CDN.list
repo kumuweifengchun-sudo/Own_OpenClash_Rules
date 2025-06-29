@@ -39,13 +39,3 @@ IP-CIDR,13.230.219.96/24,no-resolve
 IP-CIDR,13.59.46.246/24,no-resolve
 IP-CIDR,52.77.222.96/24,no-resolve
 IP-CIDR,34.214.99.199/24,no-resolve
-IP-CIDR,3.216.0.0/14,no-resolve
-IP-CIDR,52.45.0.0/16,no-resolve
-IP-CIDR,52.7.0.0/16,no-resolve
-IP-CIDR,44.241.0.0/16,no-resolve
-IP-CIDR,44.226.0.0/16,no-resolve
-IP-CIDR,35.83.0.0/16,no-resolve
-IP-CIDR,54.148.0.0/15,no-resolve
-IP-CIDR,34.196.0.0/16,no-resolve
-IP-CIDR,52.32.0.0/16,no-resolve
-IP-CIDR,23.213.160.0/19,no-resolve
