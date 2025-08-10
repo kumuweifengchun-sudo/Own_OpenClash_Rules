@@ -2,6 +2,8 @@
 # AUTHOR: Aethersailor
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 
+# CloudFlare 相关
+DOMAIN-SUFFIX,cloudflare.com
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,clientservices.googleapis.com
